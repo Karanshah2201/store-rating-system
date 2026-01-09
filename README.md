@@ -178,14 +178,6 @@ The application uses a custom "Coastal Azure" design system with:
 - `GET /api/owner/dashboard` - Owner dashboard metrics
 - `POST /api/owner/store` - Register new store (self-service)
 
-## 🔐 Security Features
-
-- JWT-based authentication
-- Password hashing with bcryptjs
-- Role-based access control (RBAC)
-- Input validation and sanitization
-- Protected API routes
-- CORS configuration
 
 ## 🗄️ Database Schema
 
